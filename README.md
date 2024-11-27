@@ -1,7 +1,7 @@
-Hello 👋 my name is Ruby Sanderson and this my portfolio.
+Hello, my name is Ruby Sanderson and this my portfolio.
 
-- ⚡ I am passionate about coding, analysing data, and technological advancements. 
-- 🌱 I have recently completed my certificate in Level 3 Data Analysis, and I am eager to enter a permanent full-time role where I can develop my knowledge and skills and be part of the growth of the organisation, as well as be a valuable memeber of the team.
+- ⚡ I am passionate about coding, the different processes of analysing data, and gaining more knowledge and proficiency.
+- 🌱 I completed my certificate in Level 3 Data Analysis this August, and I am eager to enter a permanent full-time role where I can develop my knowledge and skills and be part of the growth of the organisation, as well as be a valuable member of the team.
 
 Why technology?
 - My passion for technology started with my role-model older brother who loved computer science, and is currently a manager at PwC specialising in Cybersecurity. 
@@ -12,7 +12,7 @@ I greatly admire the work and constant development of skills and knowledge that 
 What have I learned in Data Analysis?
 This portfolio is a glimpse into some of the things we learned to do whilst studying Data Analysis:
 - Understanding data: Role of data in the context of the digital world, sourcing internal/external/open datasets, functions of data formats (numeric integer, temporal, text, geospatial, media, logical, and reference data), data architechture
-- Excel: BODMAS/sums, IF statements, comditional formatting, average/countif/min/max, creating tables, pivot tables/charts/graphs, h/v/xlookup
+- Excel: BODMAS/sums, IF statements, conditional formatting, average/countif/min/max, creating tables, pivot tables/charts/graphs, h/v/xlookup
 - Python: 
 
 
